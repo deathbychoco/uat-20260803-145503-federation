@@ -4,6 +4,8 @@
     "repo": "deathbychoco/uat-20260803-145503-p1",
     "branch": "main",
     "interval_minutes": 15,
-    "active": true
+    "active": true,
+    "last_commit": "dd6cdc46916bb0d8859cce559ed65cc29179e3b8",
+    "last_run": "2026-08-03T13:12:20.122317+00:00"
   }
 ]
