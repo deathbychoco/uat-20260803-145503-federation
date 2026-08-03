@@ -6,13 +6,15 @@
     "interval_minutes": 15,
     "active": true,
     "last_commit": "dd6cdc46916bb0d8859cce559ed65cc29179e3b8",
-    "last_run": "2026-08-03T13:12:20.122317+00:00"
+    "last_run": "2026-08-03T13:15:37.070296+00:00"
   },
   {
     "name": "uat-20260803-145503-p2",
     "repo": "deathbychoco/uat-20260803-145503-p2",
     "branch": "main",
     "interval_minutes": 15,
-    "active": true
+    "active": true,
+    "last_commit": "f8103669e57ddd740da112913cf2193de9c7b9a5",
+    "last_run": "2026-08-03T13:15:37.605314+00:00"
   }
 ]
