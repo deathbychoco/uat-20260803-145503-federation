@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "uat-20260803-145503-p1",
+    "repo": "deathbychoco/uat-20260803-145503-p1",
+    "branch": "main",
+    "interval_minutes": 15,
+    "active": true
+  }
+]
